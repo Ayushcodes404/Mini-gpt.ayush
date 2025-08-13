@@ -20,7 +20,7 @@ def get_text_from_url(url):
         print(f"Error fetching {url}: {e}")
         return ""
 
-def get_modi_wikipedia_text_from_urls(urls):
+def get_info_wikipedia_text_from_urls(urls):
     """
     Fetches and combines text content from a list of Wikipedia URLs.
     """
