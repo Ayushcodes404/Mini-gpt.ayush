@@ -4,4 +4,4 @@ from collections import defaultdict
 import requests
 import pandas as pd
 
-text = pd.read_txt("")
+text = ""
